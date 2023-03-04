@@ -1,21 +1,3 @@
-# import datetime as date
-# # import pandas
-#
-# print("Hello World!")
-# # To Do List
-#
-# task = input('Enter you next task! ')
-# fr_time = input('Enter the start time! ')
-# to_time = input('Enter the finish time! ')
-#
-# # Read the file
-# with open('to-list.txt', 'r') as to_do:
-#     file = to_do.readlines()
-#
-#
-# with open('to-list.txt', 'a') as to_do:
-#     to_do.write(f"\n{task}, {fr_time}, {to_time}. ")
-
 
 morse_code = {
     'A': '.-', 'B': '-...',   'C': '-.-.',
